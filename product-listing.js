@@ -2,14 +2,14 @@ const ProductCardData = [
     {
         type: "service",
         name: "Quantum Magnetic Resonance Analysis",
-        image: "./images/magnetic-resonance.jpeg",
+        image: "images/magnetic-resonance.jpeg",
         description: "A comprehensive nutrition plan tailored to your body type and fitness goals.",
         link: "/product-detail"
     },
     {
         type: "service",
         name: "National Phelebotomy Certification",
-        image: "./images/phlebotomy.jpeg",
+        image: "images/phlebotomy.jpeg",
         description: "A comprehensive nutrition plan tailored to your body type and fitness goals.",
         link: "/product-detail"
     }
