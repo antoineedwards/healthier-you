@@ -1,0 +1,27 @@
+[03:11:54.867] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.870] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.887] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.890] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.897] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.898] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.903] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.905] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.908] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.909] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.912] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.913] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.915] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.916] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.918] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.919] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.922] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:54.923] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:55.834] Server  ERROR   Error: Cannot find module 'next/package.json'
+Require stack:
+- /Users/antoineedwards/Projects/GitHub/healthier-you/node_modules/next/dist/server/dev/hot-reloader-shared-utils.js
+- /Users/antoineedwards/Projects/GitHub/healthier-you/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/antoineedwards/Projects/GitHub/healthier-you/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/antoineedwards/Projects/GitHub/healthier-you/node_modules/next/dist/server/lib/router-server.js
+- /Users/antoineedwards/Projects/GitHub/healthier-you/node_modules/next/dist/server/lib/start-server.js
+[03:11:55.839] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
+[03:11:55.839] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/antoineedwards/Projects/GitHub/healthier-you/src/app'
